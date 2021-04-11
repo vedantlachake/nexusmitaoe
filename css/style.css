@@ -2703,7 +2703,7 @@ a.icon[class*='instagram']:hover {
 .svg-icon-sm {
 	width: 23px;
 	height: 23px;
-	transform: scale(2);
+	transform: scale(1);
 }
 .svg-icon-sm hover{
 	fill: #d90e90;
